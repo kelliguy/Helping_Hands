@@ -4,3 +4,19 @@
     height: 300px;
     object-fit: cover;
     }
+.foot {
+    background-color:rgb(237, 237, 237);
+}
+.color {
+    color:darkgrey
+}
+.container {
+    display: grid;
+    align-items: center; 
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 5px;
+   }
+   
+   img {
+    
+   }
