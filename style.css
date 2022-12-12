@@ -16,7 +16,8 @@
     grid-template-columns: 1fr 1fr 1fr;
     column-gap: 5px;
    }
-   
-   img {
-    
-   }
+.img{
+    background-repeat: no-repeat;
+    background-size: 800px;
+    background-position: center;
+}
